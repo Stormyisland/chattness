@@ -40,3 +40,5 @@ if prompt:
         }])
         response = result["message"]["content"]
         st.write(response + " And always remember BRaiNWAVE loves you! and will never hurt you.")
+  
+        
